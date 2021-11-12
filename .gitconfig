@@ -1,0 +1,12 @@
+[user]
+	name = Lee Ellam
+	email = lee.ellam@gmail.com
+[commit]
+	gpgsign = false
+[gpg]
+	program = /usr/local/bin/gpg
+[core]
+	editor = code --wait
+	pager = less -x1,3
+[pull]
+	rebase = true
