@@ -1,6 +1,12 @@
 # Load dotfiles binaries
 export PATH="$DOTFILES/bin:$PATH"
 
+# Add brew to path
+export PATH="$PATH:/opt/homebrew/bin"
+
+# Add vscode to path
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+
 # Load Node global installed binaries
 # export PATH="$HOME/.node/bin:$PATH"
 
