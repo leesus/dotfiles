@@ -7,6 +7,7 @@ alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
 alias c="clear"
 alias zshrc="code ~/.zshrc"
 alias ohmyzsh="code ~/.oh-my-zsh"
+alias dotfiles="code ~/.dotfiles"
 
 # Directories
 alias dotfiles="cd $DOTFILES"
